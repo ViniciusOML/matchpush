@@ -1,0 +1,7 @@
+{
+  "name": "matchpush",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
